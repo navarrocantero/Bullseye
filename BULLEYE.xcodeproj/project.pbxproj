@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B88F7712576B00A00770BB3 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B88F7702576B00A00770BB3 /* AboutView.swift */; };
 		1BF4F42525724E4200E3A891 /* BULLEYEApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF4F42425724E4200E3A891 /* BULLEYEApp.swift */; };
 		1BF4F42725724E4200E3A891 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF4F42625724E4200E3A891 /* ContentView.swift */; };
 		1BF4F42925724E4600E3A891 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BF4F42825724E4600E3A891 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B88F7702576B00A00770BB3 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		1BF4F42125724E4200E3A891 /* BULLEYE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BULLEYE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BF4F42425724E4200E3A891 /* BULLEYEApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BULLEYEApp.swift; sourceTree = "<group>"; };
 		1BF4F42625724E4200E3A891 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				1BF4F42825724E4600E3A891 /* Assets.xcassets */,
 				1BF4F42D25724E4600E3A891 /* Info.plist */,
 				1BF4F42A25724E4600E3A891 /* Preview Content */,
+				1B88F7702576B00A00770BB3 /* AboutView.swift */,
 			);
 			path = BULLEYE;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BF4F42725724E4200E3A891 /* ContentView.swift in Sources */,
+				1B88F7712576B00A00770BB3 /* AboutView.swift in Sources */,
 				1BF4F42525724E4200E3A891 /* BULLEYEApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
